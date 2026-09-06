@@ -2,7 +2,7 @@
 
 LocalRemote is a lightweight **local-network remote control** that allows you to control your computer’s system volume from another device (such as a phone) over the same network.
 
-It was built to solve a simple real-world problem: controlling laptop audio when connected to a non-smart TV without a working remote.
+(Built it cos my remote was busted and I was too lazy to get up and do it)
 
 ---
 
